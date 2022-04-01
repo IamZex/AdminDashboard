@@ -1,4 +1,3 @@
-
 @font-face{
     font-family: fira-sans;
     src: url(./font/Fira_Sans/FiraSans-Black.ttf);
@@ -12,6 +11,7 @@ body{
     grid-template-columns: 20% 80%;
     font-family: fira-sans;
     margin:0;
+    height:fit-content;
 }
 .sidebar{
     display:grid;
